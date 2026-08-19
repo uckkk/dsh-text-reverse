@@ -1,0 +1,4 @@
+# 文本反转（dsh-text-reverse）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: text-reverse
+      name: 'dsh-text-reverse'
